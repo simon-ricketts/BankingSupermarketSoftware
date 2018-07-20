@@ -1,0 +1,5 @@
+2979b4cd-f6a4-4439-9e4d-c1f0e14c8e5e,Notebook,Laptop,Acer,0.15,240.0,270,01-10-2017,01-02-2016,2,32,0,laptop.png,N/A
+d5a06426-b2fe-47a8-8382-68156086d8ad,TouchPad,Tablet,Panasonic,1.3,135.0,420,01-10-2017,01-02-2016,0,15,0,tablet.png,N/A
+ef39c390-cba3-45b0-ab0b-a92ae44789f2,iPhone 4s,Phone,Apple,0.3,375.0,360,03-03-2017,03-03-2016,0,20,0,iphone.png,N/A
+d2f6204b-782c-49a3-99e0-a169a29e397d,Electric Razor,Razor,Gillette,0.6,20.0,180,02-11-2017,02-03-2016,0,13,0,electricrazor.png,N/A
+0f166de3-a2eb-4828-874f-1c7ca8176175,BlackBerry,Phone,BlackBerry Ltd,0.4,112.0,360,17-05-2017,17-05-2016,5,20,0,blackberry.png,N/A
