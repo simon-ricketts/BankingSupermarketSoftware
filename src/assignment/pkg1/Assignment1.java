@@ -5,17 +5,19 @@
  */
 package assignment.pkg1;
 
+import java.awt.BorderLayout;
+import javax.swing.JFrame;
+import javax.swing.SwingUtilities;
+
 /**
  *
  * @author Simon
  */
 public class Assignment1 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        AssignmentJFrame app = new AssignmentJFrame();
+        app.setVisible(true);
     }
-    
+;
 }
