@@ -1,5 +1,0 @@
-﻿d9069b80-e5e2-44ac-9deb-a83ce72abffb,Pound of Beef,Meat,Gourmet Meat,Pounds,1.0,3.0,04-06-2016,01-02-2016,23-04-2016,01-03-2016,5,20,0,beef.png,N/A
-8828fda9-3c93-4add-b108-b668ced53b46,Oatmeal,Cereal,Nestle,Grams,500.0,1.0,04-07-2016,23-02-2016,15-06-2016,10-06-2016,0,30,9,cereal.png,08-01-2016
-339f7308-b382-4ea3-8ba9-4b1dc984f308,Pepperoni Pizza,Pizza,The Pizza Company,Kilograms,1.0,3.0,20-07-2016,15-02-2016,29-06-2016,20-06-2016,0,10,0,pizza.png,N/A
-84ea9e9c-76e2-4858-beec-d534ee594202,Orange Juice,Fruit Juice,Fruit Farm,Litres,1.0,2.0,20-03-2016,05-01-2016,10-03-2016,01-03-2016,10,40,0,orangejuice.png,N/A
-df6bffb4-51de-4d88-be46-f923aa83b457,Skimmed Milk,Milk,Müller,Grams,1.0,1.0,10-03-2016,01-01-2016,15-02-2016,10-02-2016,0,34,10,milk.png,15-01-2016
