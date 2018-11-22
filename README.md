@@ -19,4 +19,4 @@ and the following on the Banking side:
 
 ## Running
 
-The application can be run simply by starting the [BankingSupermarketSoftware.jar](BankingSupermarketSoftware.jar) executable. Please be wary of the fact that the system will create text files in the local directory to hold information in, and it is thus advised to store the application in it's own folder to prevent clutter.
+The application can be run simply by starting the [BankingSupermarketSoftware.jar](BankingSupermarketSoftware.jar) executable. Please be wary of the fact that the system will create text files in the local directory to hold information in and it is thus advised to store the application in it's own folder to prevent clutter.
